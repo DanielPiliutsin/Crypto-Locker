@@ -1,2 +1,2 @@
-# Crypto-Locker
+# Crypto-Safe
 A simple but effective password manager!
